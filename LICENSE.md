@@ -1,4 +1,4 @@
-# 
+# Nouveau JetBrains IntelliJ IDEA flux de travail pour Mac OS | Avancé JetBrains IntelliJ IDEA flux de travail pour PC Windows. Avec IntelliSense et historique des commits — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
